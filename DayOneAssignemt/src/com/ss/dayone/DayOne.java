@@ -1,3 +1,7 @@
+/*
+ * Alfredo Martinez
+ */
+
 package com.ss.dayone;
 
 public class DayOne {
