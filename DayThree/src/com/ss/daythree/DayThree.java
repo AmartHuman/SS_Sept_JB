@@ -9,7 +9,7 @@ public class DayThree {
 	
 	public static void main(String[] args) throws IOException {
 		
-		
+		//print out path
 		System.out.println("1)");
 		Files.list(new File("./resources").toPath()).limit(10).forEach(d -> {
 			System.out.print(d);
