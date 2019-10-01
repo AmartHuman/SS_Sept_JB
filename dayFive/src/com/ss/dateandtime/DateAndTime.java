@@ -35,8 +35,6 @@ public class DateAndTime {
 
 		System.out.println("\n\n\n");
 
-		LocalDate da = LocalDate.of(2019, Month.SEPTEMBER, 13);
-
 		// find friday the 13th in the month
 		System.out.println("\n3.)");
 		date2 = date2.withYear(2023);
